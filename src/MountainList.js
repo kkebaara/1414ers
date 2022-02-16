@@ -19,6 +19,7 @@ function MountainList() {
     return (
         <main>
             <ul className="cards">
+                <h1>Mountain List</h1>
                 {renderMountains}
             </ul>
         </main>
