@@ -22,9 +22,9 @@ function MountainCard({
                 <div className="card_content">
                     <div className="card_title">{name}</div>
                     <p className="card_detail">{elevation}</p>
-                    <p> {hikingDistance}</p>
-                    <p> {funFact}</p>
-                    <p> {difficulty}</p>
+                    <p className="card_detail">{hikingDistance}</p>
+                    <p className="card_detail">{funFact}</p>
+                    <p className="card_detail">{difficulty}</p>
                 </div>
             </div> 
         </li>
