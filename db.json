@@ -1,131 +1,144 @@
 {
-    "mountains": [
-  
-      {
-        "id": 1,
-        "name": "Mount Bierstadt",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/2007-07-08-biers-reflectio2.jpg",
-        "elevation": "14,065 feet",
-        "hikingDistance": "7 miles",
-        "difficulty": "Class 2",
-        "funFact": "Is named after Albert Bierstadt. He was an American landscape painter who also happened to make the first recorded summit of the peak in 1863"
-      },
-      {
-        "id": 2,
-        "name": "Torreys Peak",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG",
-        "elevation": "14,267 feet",
-        "hikingDistance": "8.1 miles",
-        "difficulty": "Class 2",
-        "funFact": "Thanks to its breezy standard hiking route and its proximity to the Denver metro area, 14,267-foot Torreys Peak remains one of Colorado’s most popular 14ers to summit."
-      },
-      {
-        "id": 3,
-        "name": "Mount Sherman",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/MountSherman.JPG",
-        "elevation": "14,043 feet",
-        "hikingDistance": "8 miles",
-        "difficulty": "Class 2",
-        "funFact": "Mt Sherman is named for the U.S. General William Tecumseh Sherman"
-      },
-      {
-        "id": 4,
-        "name": "Mount Bross",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mt_Bross.jpg/1280px-Mt_Bross.jpg",
-        "elevation": "14,178 feet",
-        "hikingDistance": "5 miles",
-        "difficulty": "Class 2",
-        "funFact": "In 2005, the summit of Mount Bross was closed to the public because of safety concerns related to mines and trail access through private land."
-      },
-      {
-        "id": 5,
-        "name": "Grays Peak",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Grays_and_Torreys_Peaks_2006-08-06.jpg",
-        "elevation": "14,278 feet",
-        "hikingDistance": "8.25 miles",
-        "difficulty": "Class 1",
-        "funFact": "Grays peak named for the botanist who introduced Charles Darwin’s theory of natural selection to the U.S."
-      },
-      {
-        "id": 6,
-        "name": "Mount Elbert",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Mt._Elbert.jpg",
-        "elevation": "14,440 feet",
-        "hikingDistance": "10.50 miles",
-        "difficulty": "Class 1",
-        "funFact": "Mount Elbert is also known as ‘Gentle Giant’ that tops all other rocky mountains."
-      },
-      {
-        "id": 7,
-        "name": "Quandary Peak",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/QuandaryPeak.JPG/1024px-QuandaryPeak.JPG",
-        "elevation": "14,271 feet",
-        "hikingDistance": "6.75 miles",
-        "difficulty": "Class 1",
-        "funFact": "Quandary peak was named after miners who found unidentified and named mineral on the peaks slope."
-      },
-      {
-        "id": 8,
-        "name": "Mount Democrat",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mt_Democrat.jpg/1024px-Mt_Democrat.jpg",
-        "elevation": "14,155 feet",
-        "hikingDistance": "4 miles",
-        "difficulty": "Class 2",
-        "funFact": "Mount Democrat was named by some Southern minders during the Civil War in protest to nearby Mount Lincoln."
-      },
-      {
-        "id": 9,
-        "name": "Mount Massive",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mount_Massive.jpg/544px-Mount_Massive.jpg",
-        "elevation": "14,428 feet",
-        "hikingDistance": "14.50 miles",
-        "difficulty": "Class 2",
-        "funFact": "Mount Massive has more area about 14,000 feet than any mountain in the United States, outside of Alaska."
-      },
-      {
-        "id": 10,
-        "name": "Mount Belford",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mt._belford_north_approach.jpg/1280px-Mt._belford_north_approach.jpg",
-        "elevation": "14,203 feet",
-        "hikingDistance": "8 miles",
-        "difficulty": "Class 2",
-        "funFact": "Mount Belford is often climbed in tandem with its neighbor Mount Oxford"
-      },
-      {
-        "id": 11,
-        "name": "Pikes Peak",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Pikespeak.JPG",
-        "elevation": "14,115 feet",
-        "hikingDistance": "24 miles",
-        "difficulty": "Class 1",
-        "funFact": "Pikes peak was the reason Kathrine Lee Bates wrote “America the Beautiful”"
-      },
-      {
-        "id": 12,
-        "name": "Longs Peak",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fall05-LongsPeakCU_JPG_RSZ_md.jpg/1280px-Fall05-LongsPeakCU_JPG_RSZ_md.jpg",
-        "elevation": "14,259 feet",
-        "hikingDistance": "14.50 miles",
-        "difficulty": "Class 3",
-        "funFact": "Loans Peak is the only 14er in the Rocky Mountain National Park"
-      },
-      {
-        "id": 13,
-        "name": "Mount Evans",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mt_Evans.JPG/1280px-Mt_Evans.JPG",
-        "elevation": "14,271 feet",
-        "hikingDistance": "6 miles",
-        "difficulty": "Class 2",
-        "funFact": "The highest paved road in North America leads to Mount Evan"
-      },
-      {
-        "id": 14,
-        "name": "Mount Lincoln",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mount_Lincoln_Colorado_July_2016.jpg",
-        "elevation": "14,293 feet",
-        "hikingDistance": "6.50 miles",
-        "difficulty": "Class 2",
-        "funFact": "Mount Lincoln was named in honor of Abraham Lincoln, 16th President of the United States."
-      }
-    ]
-  }
+  "mountains": [
+    {
+      "id": 1,
+      "name": "Mount Bierstadt",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/2007-07-08-biers-reflectio2.jpg",
+      "elevation": "14,065 feet",
+      "hikingDistance": "7 miles",
+      "difficulty": "Class 2",
+      "funFact": "Is named after Albert Bierstadt. He was an American landscape painter who also happened to make the first recorded summit of the peak in 1863"
+    },
+    {
+      "id": 2,
+      "name": "Torreys Peak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Torreys.JPG/1280px-Torreys.JPG",
+      "elevation": "14,267 feet",
+      "hikingDistance": "8.1 miles",
+      "difficulty": "Class 2",
+      "funFact": "Thanks to its breezy standard hiking route and its proximity to the Denver metro area, 14,267-foot Torreys Peak remains one of Colorado’s most popular 14ers to summit."
+    },
+    {
+      "id": 3,
+      "name": "Mount Sherman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/MountSherman.JPG",
+      "elevation": "14,043 feet",
+      "hikingDistance": "8 miles",
+      "difficulty": "Class 2",
+      "funFact": "Mt Sherman is named for the U.S. General William Tecumseh Sherman"
+    },
+    {
+      "id": 4,
+      "name": "Mount Bross",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Mt_Bross.jpg/1280px-Mt_Bross.jpg",
+      "elevation": "14,178 feet",
+      "hikingDistance": "5 miles",
+      "difficulty": "Class 2",
+      "funFact": "In 2005, the summit of Mount Bross was closed to the public because of safety concerns related to mines and trail access through private land."
+    },
+    {
+      "id": 5,
+      "name": "Grays Peak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Grays_and_Torreys_Peaks_2006-08-06.jpg",
+      "elevation": "14,278 feet",
+      "hikingDistance": "8.25 miles",
+      "difficulty": "Class 1",
+      "funFact": "Grays peak named for the botanist who introduced Charles Darwin’s theory of natural selection to the U.S."
+    },
+    {
+      "id": 6,
+      "name": "Mount Elbert",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Mt._Elbert.jpg",
+      "elevation": "14,440 feet",
+      "hikingDistance": "10.50 miles",
+      "difficulty": "Class 1",
+      "funFact": "Mount Elbert is also known as ‘Gentle Giant’ that tops all other rocky mountains."
+    },
+    {
+      "id": 7,
+      "name": "Quandary Peak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/QuandaryPeak.JPG/1024px-QuandaryPeak.JPG",
+      "elevation": "14,271 feet",
+      "hikingDistance": "6.75 miles",
+      "difficulty": "Class 1",
+      "funFact": "Quandary peak was named after miners who found unidentified and named mineral on the peaks slope."
+    },
+    {
+      "id": 8,
+      "name": "Mount Democrat",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mt_Democrat.jpg/1024px-Mt_Democrat.jpg",
+      "elevation": "14,155 feet",
+      "hikingDistance": "4 miles",
+      "difficulty": "Class 2",
+      "funFact": "Mount Democrat was named by some Southern minders during the Civil War in protest to nearby Mount Lincoln."
+    },
+    {
+      "id": 9,
+      "name": "Mount Massive",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Mount_Massive.jpg/544px-Mount_Massive.jpg",
+      "elevation": "14,428 feet",
+      "hikingDistance": "14.50 miles",
+      "difficulty": "Class 2",
+      "funFact": "Mount Massive has more area about 14,000 feet than any mountain in the United States, outside of Alaska."
+    },
+    {
+      "id": 10,
+      "name": "Mount Belford",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mt._belford_north_approach.jpg/1280px-Mt._belford_north_approach.jpg",
+      "elevation": "14,203 feet",
+      "hikingDistance": "8 miles",
+      "difficulty": "Class 2",
+      "funFact": "Mount Belford is often climbed in tandem with its neighbor Mount Oxford"
+    },
+    {
+      "id": 11,
+      "name": "Pikes Peak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Pikespeak.JPG",
+      "elevation": "14,115 feet",
+      "hikingDistance": "24 miles",
+      "difficulty": "Class 1",
+      "funFact": "Pikes peak was the reason Kathrine Lee Bates wrote “America the Beautiful”"
+    },
+    {
+      "id": 12,
+      "name": "Longs Peak",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Fall05-LongsPeakCU_JPG_RSZ_md.jpg/1280px-Fall05-LongsPeakCU_JPG_RSZ_md.jpg",
+      "elevation": "14,259 feet",
+      "hikingDistance": "14.50 miles",
+      "difficulty": "Class 3",
+      "funFact": "Loans Peak is the only 14er in the Rocky Mountain National Park"
+    },
+    {
+      "id": 13,
+      "name": "Mount Evans",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mt_Evans.JPG/1280px-Mt_Evans.JPG",
+      "elevation": "14,271 feet",
+      "hikingDistance": "6 miles",
+      "difficulty": "Class 2",
+      "funFact": "The highest paved road in North America leads to Mount Evan"
+    },
+    {
+      "id": 14,
+      "name": "Mount Lincoln",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mount_Lincoln_Colorado_July_2016.jpg",
+      "elevation": "14,293 feet",
+      "hikingDistance": "6.50 miles",
+      "difficulty": "Class 2",
+      "funFact": "Mount Lincoln was named in honor of Abraham Lincoln, 16th President of the United States."
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Eric",
+      "mountain": "Mount Bierstadt",
+      "description": "Great",
+      "id": 1
+    },
+    {
+      "name": "Eric",
+      "mountain": "Bierstadt",
+      "description": "Great",
+      "id": 2
+    }
+  ]
+}

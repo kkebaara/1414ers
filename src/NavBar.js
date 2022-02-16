@@ -51,6 +51,16 @@ const linkStyles = {
             >
                 What is a 14er?
             </NavLink>
+            <NavLink
+                to = "/review"
+                exact
+                style = {linkStyles}
+                activeStyle = {{ 
+                    background: "darkblue"
+                }}
+            >
+                Reviews
+            </NavLink>
         </div>
       )
   }
