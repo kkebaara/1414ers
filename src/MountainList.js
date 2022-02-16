@@ -24,5 +24,4 @@ function MountainList() {
         </main>
     )
 }
-
 export default MountainList;

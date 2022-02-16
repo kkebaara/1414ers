@@ -1,8 +1,16 @@
 import React from "react"
 
-function MountainCard({ id, name, image, elevation, hikingDistance, difficulty, funFact }){
-    
+function MountainCard({ 
+    id, 
+    name, 
+    image, 
+    elevation, 
+    hikingDistance, 
+    difficulty, 
+    funFact 
+})
 
+{
     return (
         <li className="card_item">
             <div className="card">
