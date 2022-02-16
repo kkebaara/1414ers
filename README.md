@@ -1,7 +1,8 @@
 # Getting Started with the 14 Fourteeners App
 
-Download App to desktop
-NPM install
+Download Repository
+npm install
+npm install react-router-dom@5
 json-server --watch db.json
 npm start
 
