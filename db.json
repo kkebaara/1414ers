@@ -139,6 +139,12 @@
       "mountain": "Mount Massive",
       "description": "Pretty nice",
       "id": 2
+    },
+    {
+      "name": "Eric",
+      "mountain": "Mount Bross",
+      "description": "Great",
+      "id": 3
     }
   ]
 }

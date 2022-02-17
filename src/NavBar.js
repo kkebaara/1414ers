@@ -1,7 +1,6 @@
 import React from "react"
-import ReactDOM from "react-dom"
-import { BrowserRouter, Route, Switch, NavLink } from "react-router-dom"
-
+import { NavLink } from "react-router-dom"
+ 
 const linkStyles = {
     display: "inline-block",
     width: "70px",
