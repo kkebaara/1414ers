@@ -14,7 +14,6 @@ function Info(){
                     3 is the hardest.</p>
                     <p>A 14er's class depends on factors, such as hiking distance,
                     exposure, and elevation gain.</p>
-
         </div>
     )
 }

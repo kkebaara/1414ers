@@ -1,10 +1,7 @@
-// imported a bunch of stuff, probably going to 
-// delete some of this later
 import React from "react"
 import ReactDOM from "react-dom"
 import { BrowserRouter, Route, Switch, NavLink } from "react-router-dom"
 
-// added basic styling to a variable for Navlink
 const linkStyles = {
     display: "inline-block",
     width: "70px",
@@ -15,9 +12,6 @@ const linkStyles = {
     color: "white",
   };
 
-// this is where I added the NavLink code
-// this is where the blue boxes are coming 
-// from
   function NavBar() {
       return (
         <div>
