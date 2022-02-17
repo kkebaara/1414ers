@@ -10,7 +10,6 @@ function MountainCard({
     funFact 
 })
 
-
 {
     return (
         <li className="card">

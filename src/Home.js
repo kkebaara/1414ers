@@ -1,6 +1,5 @@
 import React from 'react'
 
-// added a home page
 function Home() {
   return (
     <div className="app">
