@@ -19,6 +19,7 @@ function MountainCard({
                 <p>Hiking Distance: {hikingDistance}</p>
                 <p>Difficulty: {difficulty}</p>
                 <p>Fun Fact! : {funFact} </p>
+                <p>Elevation : {elevation} </p>
         </li>
     )
 }

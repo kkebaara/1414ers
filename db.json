@@ -127,24 +127,5 @@
       "funFact": "Mount Lincoln was named in honor of Abraham Lincoln, 16th President of the United States."
     }
   ],
-  "reviews": [
-    {
-      "name": "Eric",
-      "mountain": "Torreys Peak",
-      "description": "Awesome!",
-      "id": 1
-    },
-    {
-      "name": "Eric",
-      "mountain": "Mount Massive",
-      "description": "Pretty nice",
-      "id": 2
-    },
-    {
-      "name": "Eric",
-      "mountain": "Mount Bross",
-      "description": "Great",
-      "id": 3
-    }
-  ]
+  "reviews": []
 }
