@@ -127,6 +127,18 @@
       "funFact": "Mount Lincoln was named in honor of Abraham Lincoln, 16th President of the United States."
     }
   ],
-  "reviews": []
-
+  "reviews": [
+    {
+      "name": "Eric Einerson",
+      "mountain": "Mount Bierstadt",
+      "description": "Good",
+      "id": 1
+    },
+    {
+      "name": "Eric ",
+      "mountain": "Mount Sherman",
+      "description": "Good",
+      "id": 2
+    }
+  ]
 }
