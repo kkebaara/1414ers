@@ -3,17 +3,18 @@ import React from "react"
 function Info(){
     return (
         <div>
-            <h1>About 14ers</h1>
-                <h2>What is a 14er?</h2>
-                    <p>A 14er is a mountain whose peak is at least 14,000 feet.</p>
-                <h2>How many 14ers are in Colorado?</h2>
-                    <p>There are 58 fourteeners in Colorado (the most of any USA state).</p>
-                <h2>Some more info about 14ers</h2>
-                    <p>Some 14ers are eaesier than others, which 
+            <h1>What is a 14er?</h1>
+                    <h3>A 14er is a mountain whose peak is at least 14,000 feet.</h3>
+
+                <h1>How many 14ers are in Colorado?</h1>
+                    <h3>There are 58 fourteeners in Colorado (the most of any USA state).</h3>
+
+                <h1>Some more info about 14ers</h1>
+                    <h3>Some 14ers are eaesier than others, which 
                     is why they each have a class (1-3). 1 is the easiest; 
-                    3 is the hardest.</p>
-                    <p>A 14er's class depends on factors, such as hiking distance,
-                    exposure, and elevation gain.</p>
+                    3 is the hardest.</h3>
+                    <h3>A 14er's class depends on factors, such as hiking distance,
+                    exposure, and elevation gain.</h3>
         </div>
     )
 }

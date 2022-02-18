@@ -14,9 +14,9 @@ const linkStyles = {
   function NavBar() {
       return (
         <div>
-            <NavLink
+            <NavLink 
                 to = "/"
-                exact
+                exact 
                 style = {linkStyles}
                 activeStyle = {{
                     background: "darkblue",

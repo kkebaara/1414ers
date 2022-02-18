@@ -139,6 +139,12 @@
       "mountain": "Mount Sherman",
       "description": "Good",
       "id": 2
+    },
+    {
+      "name": "",
+      "mountain": "Mount Massive",
+      "description": "",
+      "id": 3
     }
   ]
 }
