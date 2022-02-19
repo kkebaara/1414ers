@@ -21,8 +21,6 @@ li {
     margin-bottom: 1rem;
   }
 
-
-  
   button {
     padding: 0.25rem 1rem;
     font-family: inherit;
@@ -47,35 +45,10 @@ li {
     padding: 0.5rem 0;
   }
   
-  .logo {
-    font-size: 1.25em;
-    padding-left: 0.5rem;
-    color: transparent;
-    text-shadow: 0 0 0 var(--green);
-  }
+
   
   main {
     padding: 0 1rem;
-  }
-  
-  .new-plant-form {
-    padding: 2rem 1rem;
-    margin: 2rem 0;
-    background-color: rgba(181, 250, 181, 0.5);
-  }
-  
-  .new-plant-form form {
-    display: flex;
-    justify-content: center;
-  }
-  
-  .new-plant-form input {
-    margin-right: 2rem;
-    flex: 1;
-  }
-  
-  .new-plant-form button {
-    width: 150px;
   }
   
   .searchbar {
