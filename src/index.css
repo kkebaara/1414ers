@@ -46,17 +46,11 @@ li {
   }
   
 
-  
+
   main {
     padding: 0 1rem;
   }
-  
-  .searchbar {
-    padding: 1rem;
-    display: flex;
-    flex-direction: column;
-  }
-  
+
   label {
     font-weight: bold;
     display: block;

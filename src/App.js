@@ -15,7 +15,7 @@ function App() {
             <Route exact path = "/">
                 <Home />
             </Route>
-            <Route path = "/mountainlist">
+            <Route path = "/MountainList">
                 <MountainList />
             </Route>
             <Route path = "/info">

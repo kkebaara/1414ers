@@ -18,8 +18,8 @@ function MountainList() {
 
     return (
         <main>
+            <h1>Mountain List</h1>   
             <ul className="cards">
-                <h1>Mountain List</h1>
                 {renderMountains}
             </ul>
         </main>
