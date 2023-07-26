@@ -27,8 +27,4 @@ the database is on http://localhost:3000/mountains
 |── MountainCard
 └── MountainList
 
-# This works if steps are followed
 
-update this app
-
-> fix front end make it better looking
