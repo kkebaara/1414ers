@@ -31,4 +31,3 @@ the database is on http://localhost:3000/mountains
 |── MountainCard
 └── MountainList
 
-Whats up>
