@@ -28,5 +28,3 @@ the database is on http://localhost:3000/mountains
 |── Review
 |── MountainCard
 └── MountainList
-
-NEED TO UPDATE THIS*
