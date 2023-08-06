@@ -1,7 +1,5 @@
 # 1414ers
 
-fix csss
-
 # Description
 
 Welcome to our React 14ers project! This app lets you see 14 of Colorado's most popular 14ers, read what a 14er is, and leave reviews on each mountain included. Click on each link to navigate to the specified page. If you would like to leave a review, just type in your name and your review as well as selecting the mountain you are reviewing.
