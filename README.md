@@ -8,11 +8,11 @@ Welcome to our React 14ers project! This app lets you see 14 of Colorado's most 
 
 # Download Repository
 
-## `npm install`
+# `npm install`
 
-## `npm install react-router-dom@5`
-## `json-server --watch db.json`
-## `npm start`
+# `npm install react-router-dom@5`
+# `json-server --watch db.json`
+#`npm start`
 
 # Front and back end locations
 
