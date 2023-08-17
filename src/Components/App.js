@@ -1,11 +1,11 @@
 import React from 'react';
-import Header from './Header';
-import MountainPage from './MountainPagePage';
+// import Header from './Header';
+import MountainPage from './MountainPage';
 
 function App() {
 	return (
 		<div className='app'>
-			<Header />
+			{/* <Header /> */}
 			<MountainPage />
 		</div>
 	);
