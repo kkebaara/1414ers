@@ -1,61 +1,34 @@
-import React from "react"
-import { NavLink } from "react-router-dom"
- 
-const linkStyles = {
-    display: "inline-block",
-    width: "70px",
-    padding: "12px",
-    margin: "0 6px 6px",
-    background: "blue",
-    textDecoration: "none",
-    color: "white",
-  };
+import React from 'react';
+import { NavLink } from 'react-router-dom';
+import './Navbar.css';
 
-  function NavBar() {
-      return (
-        <div>
-            <NavLink 
-                to = "/"
-                exact 
-                style = {linkStyles}
-                activeStyle = {{
-                    background: "darkblue",
-                }}
-            >
-                Home Page
-            </NavLink>
-            <NavLink   
-                to = "/mountainlist"
-                exact
-                style = {linkStyles}
-                activeStyle = {{
-                    background: "darkblue",
-                }}
-            >
-            See a list of 14ers with some cool info
-            </NavLink>
-            <NavLink
-                to = "/info"
-                exact
-                style = {linkStyles}
-                activeStyle = {{ 
-                    background: "darkblue"
-                }}
-            >
-                What is a 14er?
-            </NavLink>
-            <NavLink
-                to = "/review"
-                exact
-                style = {linkStyles}
-                activeStyle = {{ 
-                    background: "darkblue"
-                }}
-            >
-                Reviews
-            </NavLink>
-        </div>
-      )
-  }
+function Navbar() {
+	return (
+		<nav className='navbar'>
+			<div className='navbar-brand'>
+				<NavLink to='/' className='navbar-logo'>
+					Logo
+				</NavLink>
+			</div>
+			<ul className='navbar-nav'>
+				<li className='nav-item'>
+					<NavLink to='/mountainlist' exact className='nav-link'>
+						See a list of 14ers with some cool info
+					</NavLink>
+				</li>
+				<li className='nav-item'>
+					<NavLink to='/info' className='nav-link'>
+						What is a 14er?
+					</NavLink>
+				</li>
+				<li className='nav-item'>
+					<NavLink to='/review' className='nav-link'>
+						Reviews
+					</NavLink>
+				</li>
+			</ul>
+		</nav>
+	);
+}
 
-  export default NavBar;
+export default Navbar;
