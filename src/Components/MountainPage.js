@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Search from './Search';
 import MountainList from './MountainList';
 
-const BASE_URL = 'http://localhost:6001/mountains';
+const BASE_URL = 'http://localhost:3000/mountains';
 
 function MountainPage() {
 	const [mountains, setMountains] = useState([]);
