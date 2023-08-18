@@ -1,5 +1,3 @@
->  UPDATING THE FRONT END
-
 # 1414ers
 
 # Description
