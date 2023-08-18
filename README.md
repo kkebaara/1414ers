@@ -16,7 +16,7 @@ Welcome to our React 14ers project! This app lets you see 14 of Colorado's most 
 
 ### `npm start`
 
-# Front and back end locations
+# FrontEnd and BackEnd locations
 
 FrontEnd
 
