@@ -19,10 +19,12 @@ Welcome to our React 14ers project! This app lets you see 14 of Colorado's most 
 # Front and back end locations
 
 FrontEnd
-#http://localhost:3001/
+
+# http://localhost:3001/
 
 BackEnd
-#http://localhost:3000/mountains
+
+# http://localhost:3000/mountains
 
 # Map of components
 
