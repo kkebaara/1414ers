@@ -7,7 +7,10 @@ function MountainList({ mountains }) {
 			key={mountain.id}
 			name={mountain.name}
 			image={mountain.image}
-			price={mountain.price}
+			hikingDistance={mountain.hikingDistance}
+			elevation={mountain.elevation}
+			difficulty={mountain.difficulty}
+			funFact={mountain.funFact}
 		/>
 	));
 
