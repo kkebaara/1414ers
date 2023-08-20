@@ -16,7 +16,7 @@ $ `json-server --watch db.json`
 
 $ `npm start`
 
-##FrontEnd and BackEnd locations
+## FrontEnd and BackEnd locations
 
 FrontEnd
 
