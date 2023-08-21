@@ -6,7 +6,7 @@ Welcome to our React 14ers project! This app lets you see 14 of Colorado's most 
 
 ## Getting started: Run the following commands in your terminal to get going.
 
-## Download Repository
+#### Download Repository
 
 $ `npm install`
 
