@@ -38,6 +38,4 @@ BackEnd
 └── MountainList
 
 
-Should add.
-> Card Select
-> Card Favorite
+
