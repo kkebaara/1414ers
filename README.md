@@ -36,6 +36,3 @@ BackEnd
 |── Review
 |── MountainCard
 └── MountainList
-
-
-
